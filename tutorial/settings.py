@@ -25,7 +25,7 @@ SECRET_KEY = '*d2x)njg4ipk87hh@cum+80pk06gw4y_z&o9e#(q-(@)jmhipb'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['chenjunting.top']
 
 
 # Application definition
